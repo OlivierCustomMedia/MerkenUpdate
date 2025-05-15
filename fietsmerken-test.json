@@ -1,1 +1,32 @@
-
+[
+  {
+    "merk": "Gazelle",
+    "website": "https://www.gazelle.nl",
+    "korte_beschrijving": "Comfortabele Nederlandse stadsfietsen met oog voor stijl.",
+    "cover": "https://raw.githubusercontent.com/OlivierCustomMedia/MerkenUpdate/main/covers/Gazelle.jpg"
+  },
+  {
+    "merk": "Batavus",
+    "website": "https://www.batavus.nl",
+    "korte_beschrijving": "Betrouwbare stads- en elektrische fietsen voor dagelijks gebruik.",
+    "cover": "https://raw.githubusercontent.com/OlivierCustomMedia/MerkenUpdate/main/covers/Batavus.jpg"
+  },
+  {
+    "merk": "Koga",
+    "website": "https://www.koga.com/nl/",
+    "korte_beschrijving": "Premium fietsen met topafwerking, geliefd bij forenzen en reizigers.",
+    "cover": "https://raw.githubusercontent.com/OlivierCustomMedia/MerkenUpdate/main/covers/Koga.jpg"
+  },
+  {
+    "merk": "Trek",
+    "website": "https://www.trekbikes.com",
+    "korte_beschrijving": "Sportieve en betrouwbare fietsen uit de VS.",
+    "cover": "https://raw.githubusercontent.com/OlivierCustomMedia/MerkenUpdate/main/covers/Trek.jpg"
+  },
+  {
+    "merk": "i:SY",
+    "website": "https://www.isy.de/en/",
+    "korte_beschrijving": "Compacte e-bike met krachtige prestaties en een opvallend design.",
+    "cover": "https://raw.githubusercontent.com/OlivierCustomMedia/MerkenUpdate/main/covers/iSY.jpg"
+  }
+]
